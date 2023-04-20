@@ -58,7 +58,7 @@ function preload() {
     this.load.image('expertbadge', 'expertbadge.png');
     this.load.image('diamond', 'diamond.png');
     this.load.image('masterbadge', 'masterbadge.png');
-    this.load.spritesheet('dude', '/assets/dude.png', {
+    this.load.spritesheet('dude', 'assets/dude.png', {
         frameWidth: 32,
         frameHeight: 48
     });
